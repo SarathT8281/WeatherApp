@@ -1,0 +1,33 @@
+.ou-main{
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+    width: 333px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+
+}
+.ou-list{
+    display: flex;
+    padding: 20px;
+    margin-top: 25px;
+    width: 15rem;
+    height: 10rem;
+    background-color: chartreuse;
+    border-radius: 10px;
+    background-color: #ffffff;
+ background-image: linear-gradient(115deg, #ffffff 0%, #91a6ff 74%);
+ line-height: 42px;
+ justify-content: space-between;
+}
+.ou-list p{
+    font-size: 12px;
+}
+.chart-container{
+    font-size: 20px;
+    width: 90px;
+    height: 90px;
+  margin-top: 30px;
+}

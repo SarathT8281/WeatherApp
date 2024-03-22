@@ -1,0 +1,21 @@
+.WeatherDayWise-main{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 48rem;
+ height: 18rem;
+ background-color: #ffffff;
+ background-image: linear-gradient(115deg, #ffffff 0%, #91a6ff 74%);
+ gap: 70px;
+ margin-left: 63px;
+ margin-top: 10px;
+ border-radius: 15px;
+}
+.WeatherDayWise-day{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 6rem;
+     text-align: center;
+}
